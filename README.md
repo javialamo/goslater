@@ -10,6 +10,7 @@ It is mainly a copy of goslate with minor changes to provide a romanized transla
 The author of goslate is ZHUO Qiang and you can obtain goslate here: https://bitbucket.org/zhuoqiang/goslate 
 
 
+
 Usage
 --
 
@@ -20,24 +21,8 @@ Usage
   >print gr.translate('hello world','zh')
   
   Nǐ hǎo shìjiè
-  
 
-  >import goslater
-  
-  >gr = goslater.Goslater()
-  
-  >print gr.translate('hello world','zh')
-  
-  >Nǐ hǎo shìjiè
-  
-  
-  >import goslater
-  
-  >gr = goslater.Goslater()
-  
-  >print gr.translate('hello world','zh')
-  
-  >>Nǐ hǎo shìjiè
+
  
 Install
 --
