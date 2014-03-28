@@ -15,9 +15,9 @@ Usage
 
   >import goslater
   
-  gr = goslater.Goslater()
+  >>gr = goslater.Goslater()
   
-  print gr.translate('hello world','zh')
+  >>>print gr.translate('hello world','zh')
   
   Nǐ hǎo shìjiè
 
