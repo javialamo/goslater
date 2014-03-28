@@ -3,7 +3,7 @@ Goslater
 
 Free Google Translate API for romanized translations
 
-``goslater`` provides you *free* python API to google  romanizedtranslation service by querying google translation website.
+``goslater`` provides you *free* python API to google  romanized translation service by querying google translation website.
 
 It is mainly a copy of goslate with minor changes to provide a romanized translation version, since I have find there is no way to get it in an official or unofficial way. It's also modified in order to made it work with goslate without interferences.
 
