@@ -1,4 +1,3 @@
-
 Goslater: Free Google Translate API for romanized translations
 ##############################################################
 
@@ -23,16 +22,7 @@ Usage
 
  
 Install
-========
-
-goslater support both Python2 and Python3. You could install it via:
-
-
-.. sourcecode:: bash
-  
-  $ pip install goslate
-
- 
+=======
 Just download `latest goslateR.py <https://github.com/javialamo/goslater/goslater.py>`_ directly and use
 
 `futures <https://pypi.python.org/pypi/futures>`_ is optional but recommended to install for best performance.
