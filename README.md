@@ -13,7 +13,7 @@ The author of goslate is ZHUO Qiang and you can obtain goslate here: https://bit
 Usage
 --
 
-  import goslater
+  >import goslater
   
   gr = goslater.Goslater()
   
