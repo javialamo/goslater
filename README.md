@@ -13,18 +13,18 @@ The author of goslate is ZHUO Qiang and you can obtain goslate here: https://bit
 Usage
 --
 
-  import goslater
-  gr = goslater.Goslater()
-  print gr.translate('hello world','zh')
-  Nǐ hǎo shìjiè
+import goslater
+gr = goslater.Goslater()
+print gr.translate('hello world','zh')
+Nǐ hǎo shìjiè
 
 
  
 Install
 --
 
-Just download `latest goslater.py https://github.com/javialamo/goslater` directly and use
+Just download `latest goslater.py` https://github.com/javialamo/goslater directly and use
 
-`futures https://pypi.python.org/pypi/futures` is optional but recommended to install for best performance.
+`futures` https://pypi.python.org/pypi/futures is optional but recommended to install for best performance.
 
 
