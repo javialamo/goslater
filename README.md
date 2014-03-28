@@ -11,14 +11,16 @@ The author of goslate is ZHUO Qiang and you can obtain goslate here: https://bit
 
 
 Usage
+--
 
-> import goslater
+  import goslater
   gr = goslater.Goslater()
   print gr.translate('hello world', 'zh')
   Nǐ hǎo shìjiè
 
  
 Install
+--
 
 Just download `latest goslater.py <https://github.com/javialamo/goslater/blob/master/goslater.py>`_ directly and use
 
